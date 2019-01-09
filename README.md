@@ -19,3 +19,4 @@ A pleasant toddler language based on both english and spanish.
 | guy-gane | Street Fighter ||
 | bai-gane | Street Fighter ||
 | we-ow | cat or meow ||
+| woof | dog ||
