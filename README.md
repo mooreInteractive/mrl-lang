@@ -18,3 +18,4 @@ A pleasant toddler language based on both english and spanish.
 | alto-key-gane | Rocket League ||
 | guy-gane | Street Fighter ||
 | bai-gane | Street Fighter ||
+| we-ow | cat or meow ||
