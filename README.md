@@ -1,4 +1,5 @@
 # Margot &amp; Riker Language - Official Spec
+A pleasant toddler language based on both english and spanish.
 
 ## Latest Definitions
 
