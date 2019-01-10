@@ -20,3 +20,4 @@ A pleasant toddler language based on both english and spanish.
 | bai-gane | Street Fighter ||
 | we-ow | cat or meow ||
 | woof | dog ||
+| ah-peen | airplane ||
