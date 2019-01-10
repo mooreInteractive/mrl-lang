@@ -21,3 +21,5 @@ A pleasant toddler language based on both english and spanish.
 | we-ow | cat or meow ||
 | woof | dog ||
 | ah-peen | airplane ||
+| alto-mommy | Roxana - daycare provider ||
+| pita | Mary - Roxana's mom ||
